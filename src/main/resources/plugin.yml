@@ -1,0 +1,7 @@
+author: C45Y
+database: false
+main: com.c45y.mcexpsux.McExpSux
+name: McExpSux
+startup: postworld
+url: http://c45y.com
+version: '1.0'
